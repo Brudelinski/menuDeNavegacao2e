@@ -1,0 +1,17 @@
+.menu{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}font-size: 24px;
+
+
+.menu-list{
+    list-style: nome;
+    display: flex;
+}
+
+.menu-list - li a{
+    text-decoration:nome;
+    color: #000;
+    padding: 10px;
+}
